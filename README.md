@@ -1,7 +1,6 @@
 # Sistem Monitoring Dan Prediksi Konsumsi Listrik Menggunakan Metode Long Short-Term Memory (LSTM) Berbasis Internet of Things (IOT)
 
 ![Static Badge](https://img.shields.io/badge/Status-Selesai-green)
-![Static Badge](https://img.shields.io/badge/License-MIT-blue)
 ![Static Badge](https://img.shields.io/badge/Bahasa-Indonesia-orange)
 
 ## 📋 Deskripsi
